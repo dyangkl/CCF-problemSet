@@ -1,8 +1,8 @@
-CCF - Set of questions in Python  
+# CCF - Set of questions in Python  
 
-**CCF ¹Ù·½ÍøÖ·£º[CCF¼ÆËã»úÖ°Òµ×Ê¸ñÈÏÖ¤](http://www.cspro.org/lead/application/ccf/login.jsp)**  
+**CCF å®˜æ–¹ç½‘å€ï¼š[CCFè®¡ç®—æœºèŒä¸šèµ„æ ¼è®¤è¯](http://www.cspro.org/lead/application/ccf/login.jsp)**  
 
-ÊÖ¶¯¸üÐÂÖÐ...  
+æ‰‹åŠ¨æ›´æ–°ä¸­...  
 
-> Creator Karl - ¶¬Ñî  
+> Creator Karl - å†¬æ¨  
 > Blog: www.cnblogs.com/dongyangblog  
