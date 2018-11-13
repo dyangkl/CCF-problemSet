@@ -23,3 +23,24 @@
 评测用例规模与约定
 　　对于所有评测用例，1 ≤ T ≤ 100000。
 '''
+money = int(input())
+smoney = money - 3500
+ymoney = 3500
+slm = [0, 1500, 4500, 9000, 35000, 55000, 80000, 9999999]
+sl = [0.03, 0.1, 0.2, 0.25, 0.3, 0.35, 0.45]
+
+for i in range(7):
+    if money <= 3500:
+        ymoney = money
+        break
+    # 需要交的税
+    m = sl[i] * (slm[i+1] - slm[i])
+    # 如果要交税的钱大于该分段要交的钱，则原工资加该分段的钱，要交税的钱减去该分段要交的税钱
+    if smoney > slm[i+1] - slm[i] - m:
+        ymoney += slm[i+1] - slm[i]
+        smoney -=  slm[i+1] - slm[i] - m
+    else:
+        smoney /= 1 - sl[i]
+        ymoney += smoney
+        break
+print(int(ymoney))
