@@ -1,2 +1,2 @@
-a = [1,2,3,4,5]
-print(a[1:4+1])
+for i in range(15):
+    print(' '.join(['0']*10))
