@@ -50,25 +50,52 @@ STRING "hello"
 　　所有作为键的字符串不会包含小数点 .。查询时键的大小写敏感。
 　　50%的评测用例输入的对象只有 1 层结构，80%的评测用例输入的对象结构层数不超过 2 层。举例来说，{"a": "b"} 是一层结构的对象，{"a": {"b": "c"}} 是二层结构的对象，以此类推。
 '''
+
 import json
-
+# 读
 n, m = input().split()
-
 n = int(n)
 m = int(m)
 jsonData = ''
-search = ()
-
+search = []
 for i in range(n):
     jsonData += input()
 
 for i in range(m):
-    jsonData += input()
-print(jsonData)
+    r  = input()
+    # 把单斜杠和引号加斜杠
+    if '\\' in r:
+        r = r.replace('\\', '\\\\')
+    if '"' in r:
+        r = r.replace('"', '\\\"')
+    search.append(r)
+# 加载为字典
 jsonObj = json.loads(jsonData)
-print(jsonObj)
+for i in range(m):
 
-
+    # 如果有点
+    if '.' in search[i]:
+        index = search[i].index('.')
+        ml = '[\"' + search[i][:index] + '\"]' + '[\"' + search[i][index+1:] + '\"]'
+        search[i] = ml
+        while True:
+            if '.' in search[i]:
+                index = search[i].index('.')
+                ml = search[i][:index] + '\"]' + '[\"' + search[i][index + 1:]
+                search[i] = ml
+            else:
+                break
+    # 没有点
+    else:
+        ml = '[\"' + search[i] + '\"]'
+    try:
+        content = eval('jsonObj' + ml)
+        tp = 'STRING ' if type(content) == str else 'OBJECT '
+        print(tp, end='')
+        if tp == 'STRING ': eval('print(jsonObj' + ml + ')')
+        else: print()
+    except Exception as e:
+        print('NOTEXIST')
 
 
 
