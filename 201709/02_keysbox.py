@@ -41,12 +41,15 @@
 　　对于所有评测用例，1 ≤ N, K ≤ 1000，1 ≤ w ≤ N，1 ≤ s ≤ 10000，1 ≤ c ≤ 100。
 '''
 
+# 读 n k
 read = input().split()
 n = int(read[0])
 k = int(read[1])
-
+# 保存教室钥匙信息
 classroom = list(range(1,n+1))
+# 存老师用钥匙信息
 teacher = []
+# 存存取钥匙的时间点
 time = []
 for i in range(k):
     read = [int(x) for x in input().split()]
@@ -54,8 +57,10 @@ for i in range(k):
     time.append(read[1])
     time.append(read[1]+read[2])
 
+# 按取钥匙时间进行排序
 teacher.sort(key=lambda x:x[1])
 time = list(set(time))
+# 对时间按从小到大排序
 time.sort()
 # 保存取走的钥匙和归还时间
 tmpkey = []

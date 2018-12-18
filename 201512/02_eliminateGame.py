@@ -40,6 +40,7 @@
 '''
 
 n,m = [int(x) for x in input().split()]
+# 记录消除的位置
 eliminate = []
 panel = []
 for i in range(n):

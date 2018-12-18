@@ -27,9 +27,12 @@
 　　对于所有评测用例，1 ≤ n ≤ 1000，1 ≤ m ≤ 1000，所有移动均合法。
 '''
 
+# 读 n m
 n = int(input())
 m = int(input())
+# 生成学生号列表
 students = list(range(1, n+1))
+# 存移动信息
 move = []
 for i in range(m):
     read = [int(x) for x in input().split()]
@@ -47,6 +50,7 @@ for mv in move:
         for i in mvlist:
             students[newindex] = i
             newindex += 1
+    # 后移
     else:
         mvlist = students[index:newindex+1]
         tmp = mvlist[0]
