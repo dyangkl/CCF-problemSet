@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8e71edf-5b8e-4d25-bb30-43679b21b61b" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/201312/02_ISBN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/201512/02_eliminateGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/201512/02_eliminateGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/201612/02_wageCalculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/201612/02_wageCalculation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/201703/02_studentsQueuing.py" beforeDir="false" afterPath="$PROJECT_DIR$/201703/02_studentsQueuing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/201709/02_keysbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/201709/02_keysbox.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201703/03_markdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201809/01_sellingVegetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201809/02_buyVegetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201809/03_elementSelector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/201709/03_JSONSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/201709/03_JSONSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,33 +27,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CCF$soySauce.coverage" NAME="soySauce Coverage Results" MODIFIED="1540898305527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201709" />
-    <SUITE FILE_PATH="coverage/CCF$02_drawing.coverage" NAME="02_drawing Coverage Results" MODIFIED="1542816212961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201409" />
-    <SUITE FILE_PATH="coverage/CCF$01_cake.coverage" NAME="01_cake Coverage Results" MODIFIED="1540899824472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201703" />
-    <SUITE FILE_PATH="coverage/CCF$01_digitalSum.coverage" NAME="01_digitalSum Coverage Results" MODIFIED="1540900974993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201512" />
+    <SUITE FILE_PATH="coverage/CCF$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1540905632581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CCF$temp.coverage" NAME="temp Coverage Results" MODIFIED="1544892647645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CCF$03_JSONSearch.coverage" NAME="03_JSONSearch Coverage Results" MODIFIED="1543922891668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201709" />
+    <SUITE FILE_PATH="coverage/CCF$02_keysbox.coverage" NAME="02_keysbox Coverage Results" MODIFIED="1542110155640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201709" />
+    <SUITE FILE_PATH="coverage/CCF$game.coverage" NAME="game Coverage Results" MODIFIED="1539689718840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
+    <SUITE FILE_PATH="coverage/CCF$02_studentsQueuing.coverage" NAME="02_studentsQueuing Coverage Results" MODIFIED="1542113626937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201703" />
     <SUITE FILE_PATH="coverage/CCF$01_middleNumber.coverage" NAME="01_middleNumber Coverage Results" MODIFIED="1540900200102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201612" />
+    <SUITE FILE_PATH="coverage/CCF$02_eliminateGame.coverage" NAME="02_eliminateGame Coverage Results" MODIFIED="1542715396188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201512" />
+    <SUITE FILE_PATH="coverage/CCF$02_window.coverage" NAME="02_window Coverage Results" MODIFIED="1542899850026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201403" />
     <SUITE FILE_PATH="coverage/CCF$01_sequenceOfNumber.coverage" NAME="01_sequenceOfNumber Coverage Results" MODIFIED="1540901770778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201509" />
+    <SUITE FILE_PATH="coverage/CCF$soySauce.coverage" NAME="soySauce Coverage Results" MODIFIED="1540898305527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201709" />
+    <SUITE FILE_PATH="coverage/CCF$01_foldPointNumber.coverage" NAME="01_foldPointNumber Coverage Results" MODIFIED="1540900944557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201604" />
+    <SUITE FILE_PATH="coverage/CCF$01_largestNumberOfOccurrences.coverage" NAME="01_largestNumberOfOccurrences Coverage Results" MODIFIED="1540910956966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201312" />
+    <SUITE FILE_PATH="coverage/CCF$01_digitalSum.coverage" NAME="01_digitalSum Coverage Results" MODIFIED="1540900974993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201512" />
+    <SUITE FILE_PATH="coverage/CCF$01_imageRotation.coverage" NAME="01_imageRotation Coverage Results" MODIFIED="1540902420165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201503" />
+    <SUITE FILE_PATH="coverage/CCF$01_oppositeNumber.coverage" NAME="01_oppositeNumber Coverage Results" MODIFIED="1540908695853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201403" />
+    <SUITE FILE_PATH="coverage/CCF$01_maxWave.coverage" NAME="01_maxWave Coverage Results" MODIFIED="1540900374702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201609" />
+    <SUITE FILE_PATH="coverage/CCF$02_zigzagScan.coverage" NAME="02_zigzagScan Coverage Results" MODIFIED="1542718530950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201412" />
+    <SUITE FILE_PATH="coverage/CCF$miniDiff.coverage" NAME="miniDiff Coverage Results" MODIFIED="1539688792330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
+    <SUITE FILE_PATH="coverage/CCF$01_adjacentNumberPairs.coverage" NAME="01_adjacentNumberPairs Coverage Results" MODIFIED="1540908224922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201409" />
     <SUITE FILE_PATH="coverage/CCF$trainTickets.coverage" NAME="trainTickets Coverage Results" MODIFIED="1542475234196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201609" />
     <SUITE FILE_PATH="coverage/CCF$02_wageCalculation.coverage" NAME="02_wageCalculation Coverage Results" MODIFIED="1542124108708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201612" />
-    <SUITE FILE_PATH="coverage/CCF$temp.coverage" NAME="temp Coverage Results" MODIFIED="1542899287759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CCF$miniDiff.coverage" NAME="miniDiff Coverage Results" MODIFIED="1539688792330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
-    <SUITE FILE_PATH="coverage/CCF$crontab.coverage" NAME="crontab Coverage Results" MODIFIED="1539691557494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
-    <SUITE FILE_PATH="coverage/CCF$01_imageRotation.coverage" NAME="01_imageRotation Coverage Results" MODIFIED="1540902420165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201503" />
-    <SUITE FILE_PATH="coverage/CCF$02_eliminateGame.coverage" NAME="02_eliminateGame Coverage Results" MODIFIED="1542715396188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201512" />
-    <SUITE FILE_PATH="coverage/CCF$01_foldPointNumber.coverage" NAME="01_foldPointNumber Coverage Results" MODIFIED="1540900944557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201604" />
-    <SUITE FILE_PATH="coverage/CCF$01_adjacentNumberPairs.coverage" NAME="01_adjacentNumberPairs Coverage Results" MODIFIED="1540908224922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201409" />
-    <SUITE FILE_PATH="coverage/CCF$02_keysbox.coverage" NAME="02_keysbox Coverage Results" MODIFIED="1542110155640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201709" />
-    <SUITE FILE_PATH="coverage/CCF$02_window.coverage" NAME="02_window Coverage Results" MODIFIED="1542899850026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201403" />
-    <SUITE FILE_PATH="coverage/CCF$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1540905632581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CCF$02_studentsQueuing.coverage" NAME="02_studentsQueuing Coverage Results" MODIFIED="1542113626937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201703" />
-    <SUITE FILE_PATH="coverage/CCF$01_entranceGuard.coverage" NAME="01_entranceGuard Coverage Results" MODIFIED="1540906214786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201412" />
-    <SUITE FILE_PATH="coverage/CCF$02_numberSort.coverage" NAME="02_numberSort Coverage Results" MODIFIED="1542717052820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201503" />
-    <SUITE FILE_PATH="coverage/CCF$game.coverage" NAME="game Coverage Results" MODIFIED="1539689718840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
-    <SUITE FILE_PATH="coverage/CCF$01_maxWave.coverage" NAME="01_maxWave Coverage Results" MODIFIED="1540900374702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201609" />
+    <SUITE FILE_PATH="coverage/CCF$03_markdown.coverage" NAME="03_markdown Coverage Results" MODIFIED="1544420020555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201703" />
+    <SUITE FILE_PATH="coverage/CCF$01_sellingVegetable.coverage" NAME="01_sellingVegetable Coverage Results" MODIFIED="1544885642729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201809" />
+    <SUITE FILE_PATH="coverage/CCF$03_elementSelector.coverage" NAME="03_elementSelector Coverage Results" MODIFIED="1544930571172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201809" />
     <SUITE FILE_PATH="coverage/CCF$02_dataCalculation.coverage" NAME="02_dataCalculation Coverage Results" MODIFIED="1542716223491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201509" />
-    <SUITE FILE_PATH="coverage/CCF$01_largestNumberOfOccurrences.coverage" NAME="01_largestNumberOfOccurrences Coverage Results" MODIFIED="1540910956966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201312" />
-    <SUITE FILE_PATH="coverage/CCF$02_zigzagScan.coverage" NAME="02_zigzagScan Coverage Results" MODIFIED="1542718530950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201412" />
+    <SUITE FILE_PATH="coverage/CCF$02_drawing.coverage" NAME="02_drawing Coverage Results" MODIFIED="1542816212961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201409" />
+    <SUITE FILE_PATH="coverage/CCF$02_numberSort.coverage" NAME="02_numberSort Coverage Results" MODIFIED="1542717052820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201503" />
+    <SUITE FILE_PATH="coverage/CCF$20_buyVegetable.coverage" NAME="20_buyVegetable Coverage Results" MODIFIED="1544887231420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201809" />
+    <SUITE FILE_PATH="coverage/CCF$01_entranceGuard.coverage" NAME="01_entranceGuard Coverage Results" MODIFIED="1540906214786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201412" />
+    <SUITE FILE_PATH="coverage/CCF$01_cake.coverage" NAME="01_cake Coverage Results" MODIFIED="1540899824472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201703" />
     <SUITE FILE_PATH="coverage/CCF$01_imageRotation_2.coverage" NAME="01_imageRotation_2 Coverage Results" MODIFIED="1540902978688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201503" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/CCF$01_oppositeNumber.coverage" NAME="01_oppositeNumber Coverage Results" MODIFIED="1540908695853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201403" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -83,10 +100,14 @@
         </counts>
       </usages-collector>
     </session>
+=======
+    <SUITE FILE_PATH="coverage/CCF$crontab.coverage" NAME="crontab Coverage Results" MODIFIED="1539691557494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/201712" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/201612/02_wageCalculation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
@@ -145,24 +166,63 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+=======
+        <entry file="file://$PROJECT_DIR$/201709/03_JSONSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/201403/02_window.py">
+        <entry file="file://$PROJECT_DIR$/201703/03_markdown.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+            <state relative-caret-position="1387">
+              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+              <folding>
+                <element signature="e#1479#1488#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/201809/01_sellingVegetable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/201809/02_buyVegetable.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="332">
+              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+=======
+            <state relative-caret-position="627">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/201512/02_eliminateGame.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1653">
               <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+=======
+        <entry file="file://$PROJECT_DIR$/201809/03_elementSelector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
             </state>
           </provider>
         </entry>
@@ -170,8 +230,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/201703/02_studentsQueuing.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="551">
               <caret line="29" selection-start-line="29" selection-end-line="62" selection-end-column="25" />
+=======
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
             </state>
           </provider>
         </entry>
@@ -184,6 +249,18 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>kindex</find>
+      <find>star</find>
+      <find>\</find>
+      <find>cDeep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sindex</replace>
+      <replace>hDeep</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,22 +294,24 @@
         <option value="$PROJECT_DIR$/201412/02_zWordScan.py" />
         <option value="$PROJECT_DIR$/201412/02_zigzagScan.py" />
         <option value="$PROJECT_DIR$/201409/02_drawing.py" />
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/201403/02_window.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/201709/02_keysbox.py" />
         <option value="$PROJECT_DIR$/201703/02_studentsQueuing.py" />
         <option value="$PROJECT_DIR$/201612/02_wageCalculation.py" />
         <option value="$PROJECT_DIR$/201512/02_eliminateGame.py" />
+=======
+        <option value="$PROJECT_DIR$/201709/03_JSONSearch.py" />
+        <option value="$PROJECT_DIR$/201703/03_markdown.py" />
+        <option value="$PROJECT_DIR$/201809/01_sellingVegetable.py" />
+        <option value="$PROJECT_DIR$/201809/20_buyVegetable.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/201809/03_elementSelector.py" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="3" />
     <option name="y" value="23" />
     <option name="width" value="1346" />
@@ -251,6 +330,11 @@
             <path>
               <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCF" type="462c0819:PsiDirectoryNode" />
+              <item name="201312" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
@@ -312,6 +396,16 @@
               <item name="CCF" type="462c0819:PsiDirectoryNode" />
               <item name="201712" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCF" type="462c0819:PsiDirectoryNode" />
+              <item name="201803" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCF" type="462c0819:PsiDirectoryNode" />
+              <item name="201809" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -338,8 +432,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_window">
-    <configuration name="02_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.03_elementSelector">
+    <configuration name="01_sellingVegetable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CCF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,12 +441,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201409" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201809" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201409/02_drawing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201809/01_sellingVegetable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,7 +455,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_numberSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_elementSelector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CCF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,12 +463,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201503" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201809" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201503/02_numberSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201809/03_elementSelector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,7 +477,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_markdown" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CCF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -391,12 +485,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201403" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201703" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201403/02_window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201703/03_markdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,7 +499,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_zigzagScan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20_buyVegetable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CCF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -413,12 +507,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201412" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/201809" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201412/02_zigzagScan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201809/02_buyVegetable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -451,18 +545,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.temp" />
-      <item itemvalue="Python.02_numberSort" />
-      <item itemvalue="Python.02_zigzagScan" />
-      <item itemvalue="Python.02_drawing" />
-      <item itemvalue="Python.02_window" />
+      <item itemvalue="Python.03_markdown" />
+      <item itemvalue="Python.01_sellingVegetable" />
+      <item itemvalue="Python.20_buyVegetable" />
+      <item itemvalue="Python.03_elementSelector" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_window" />
+        <item itemvalue="Python.03_elementSelector" />
         <item itemvalue="Python.temp" />
-        <item itemvalue="Python.02_drawing" />
-        <item itemvalue="Python.02_zigzagScan" />
-        <item itemvalue="Python.02_numberSort" />
+        <item itemvalue="Python.20_buyVegetable" />
+        <item itemvalue="Python.01_sellingVegetable" />
+        <item itemvalue="Python.03_markdown" />
       </list>
     </recent_temporary>
   </component>
@@ -476,10 +570,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539687722229</updated>
+      <workItem from="1543921400963" duration="6876000" />
+      <workItem from="1543975600178" duration="7276000" />
+      <workItem from="1544008688338" duration="4358000" />
+      <workItem from="1544354582911" duration="1567000" />
+      <workItem from="1544417723545" duration="2946000" />
+      <workItem from="1544882375421" duration="11836000" />
+      <workItem from="1544928348319" duration="2640000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37499000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49514562" visible="true" weight="0.11119516" />
@@ -489,9 +603,21 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.16091955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42528737" />
+=======
+    <frame x="0" y="0" width="1366" height="768" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.12820514" />
+      <window_info id="Structure" order="1" sideWeight="0.50666666" side_tool="true" weight="0.12669684" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10625" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296875" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
@@ -531,8 +657,31 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/201809/03_elementSelector.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/201809/03_elementSelector.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/201809/03_elementSelector.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/201809/03_elementSelector.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/201703/01_cake.py">
@@ -711,17 +860,67 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/201703/02_studentsQueuing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" selection-start-line="29" selection-end-line="62" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/201403/02_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/201403/02_window.py">
+    <entry file="file://$PROJECT_DIR$/201809/01_sellingVegetable.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201809/02_buyVegetable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201809/03_elementSelector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201709/03_JSONSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201703/03_markdown.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="332">
           <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+=======
+        <state relative-caret-position="1387">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#1479#1488#0" expanded="true" />
+          </folding>
+>>>>>>> 2be51ab4f6bb84c65aa2056db12d74e90f361c20
         </state>
       </provider>
     </entry>
